@@ -196,6 +196,6 @@ document.addEventListener('DOMContentLoaded', function() {
 $content = ob_get_clean();
 
 $page_title = "Panel"; 
-.
+
 include 'layout.php'; 
 ?>
